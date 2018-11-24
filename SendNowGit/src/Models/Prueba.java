@@ -20,4 +20,8 @@ public class Prueba {
    {
       System.out.println("Haitiano");
    }
+       public void Veneury()
+   {
+      System.out.println("El papiii champu");
+   }
 }
