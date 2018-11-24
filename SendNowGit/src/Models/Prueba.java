@@ -16,4 +16,8 @@ public class Prueba {
       System.out.println("Rubia desteñida");
    }
    
+    public void Pedro()
+   {
+      System.out.println("Haitiano");
+   }
 }
