@@ -10,5 +10,9 @@ package Controllers;
  * @author TooDe
  */
 public class Prueba {
-   
+  
+   public void Mensaje()
+   {
+       System.out.println("Hola mundo");
+   }
 }
