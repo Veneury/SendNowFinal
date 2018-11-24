@@ -10,18 +10,6 @@ package Models;
  * @author TooDe
  */
 public class Prueba {
-   
-   public void Yoseny()
-   {
-      System.out.println("Rubia desteñida");
-   }
-   
-    public void Pedro()
-   {
-      System.out.println("Haitiano");
-   }
-       public void Veneury()
-   {
-      System.out.println("El papiii champu");
-   }
+
+
 }
