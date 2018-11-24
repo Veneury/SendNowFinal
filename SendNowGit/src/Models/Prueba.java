@@ -11,4 +11,9 @@ package Models;
  */
 public class Prueba {
    
+   public void Yoseny()
+   {
+      System.out.println("Rubia desteñida");
+   }
+   
 }
