@@ -25,5 +25,10 @@ public class Prueba {
       this.num2=num2;
       return num1 - num2;
    }
+      
+            public void bailar()
+   {
+      System.out.println("Hola estoy bailando");
+   }
    
 }

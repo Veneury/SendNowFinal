@@ -11,5 +11,8 @@ package Models;
  */
 public class Prueba {
 
-
+      public void bailar()
+   {
+      System.out.println("Hola estoy bailando");
+   }
 }

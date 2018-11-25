@@ -20,4 +20,9 @@ public class Prueba {
    {
       System.out.println("Hola estoy comiendo");
    }
+   
+      public void bailar()
+   {
+      System.out.println("Hola estoy bailando");
+   }
 }
