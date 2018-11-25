@@ -12,7 +12,7 @@ package Views;
 public class Prueba {
    private int num1,num2;
    
-   private int suma(int num1, int num2)
+  /* private int suma(int num1, int num2)
    {
       this.num1=num1;
       this.num2=num2;
@@ -24,11 +24,16 @@ public class Prueba {
       this.num1=num1;
       this.num2=num2;
       return num1 - num2;
-   }
+   }*/
       
             public void bailar()
    {
       System.out.println("Hola estoy bailando");
    }
+            
+                public void desayunar()
+        {
+           System.out.println("Hola estoy desayunando");
+        }
    
 }

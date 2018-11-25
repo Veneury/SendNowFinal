@@ -29,4 +29,9 @@ public class Prueba {
    {
       System.out.println("Hola estoy RubiaDe");
    }
+        
+        public void desayunar()
+        {
+           System.out.println("Hola estoy desayunando");
+        }
 }
