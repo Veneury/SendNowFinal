@@ -15,4 +15,9 @@ public class Prueba {
    {
        System.out.println("Hola mundo");
    }
+   
+   public void Comer()
+   {
+      System.out.println("Hola estoy comiendo");
+   }
 }
