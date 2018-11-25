@@ -36,4 +36,9 @@ public class Prueba {
            System.out.println("Hola estoy desayunando");
         }
    
+                   public void Boruto()
+        {
+           System.out.println("Hola estamos en filmación");
+        }
+   
 }
