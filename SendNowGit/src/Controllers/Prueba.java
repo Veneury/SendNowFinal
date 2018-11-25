@@ -25,4 +25,8 @@ public class Prueba {
    {
       System.out.println("Hola estoy bailando");
    }
+        public void rubiaDe()
+   {
+      System.out.println("Hola estoy RubiaDe");
+   }
 }
