@@ -34,4 +34,9 @@ public class Prueba {
         {
            System.out.println("Hola estoy desayunando");
         }
+        
+        public void hablar()
+        {
+            System.out.println("Estoy hablando no me interumpas");
+        }
 }
